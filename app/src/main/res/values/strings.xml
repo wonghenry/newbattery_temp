@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">電池小助手</string>
+    <string name="icon_share">&#xf064;</string>
+    <string name="action_settings">關於</string>
+    <string name="action_settings1">說明</string>
+    <string name="action_settings2">Google Play</string>
+    <string-array name="drink">
+        <item>開 啟 </item>
+        <item>關 閉 </item>
+    </string-array>
+
+    <string-array name="drink2">
+        <item>開 啟</item>
+        <item>關 閉</item>
+    </string-array>
+    <string name="cancel">取消</string>
+</resources>
